@@ -1,2 +1,2 @@
 # MotherOfALL
-Some baisic C programming using Codelite
+Some basic C programming using Codelite.
